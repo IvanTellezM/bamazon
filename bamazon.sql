@@ -4,20 +4,15 @@ CREATE DATABASE bamazon_DB;
 USE bamazon_DB;
 
 CREATE TABLE Products (
-ItemID int NOT NULL,
-ProductName varchar(50) NOT NULL,
-DepartmentName varchar(50) NOT NULL,
-Price DECIMAL(4,2) NOT NULL,
-StockQuantity int NOT NULL);
+ItemID INT NOT NULL, 
+ProductName VARCHAR(50) NULL,
+DepartmentName VARCHAR(50) NULL,
+Price DECIMAL(10,2) NULL,
+StockQuantity INT NULL);
 
 
 INSERT INTO Products (ItemID, ProductName, DepartmentName, Price, StockQuantity) 
-VALUES (
-1111,
-'32" TV',
-'TV & Home Theater',
-120.99,
-20);
+VALUES (1111,'32" TV','TV & Home Theater', 120.99, 20);
 
 INSERT INTO Products (ItemID, ProductName, DepartmentName, Price, StockQuantity) 
 VALUES (
