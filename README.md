@@ -2,8 +2,10 @@
 Assignment #2 week 6 of UC Berkeley BC. ### Challenge #1: Customer View
 
 https://drive.google.com/file/d/1OWUhhsGyuYfVkNvXt6YBBA1W42s31Nsg/view
-
+![Screenshot #1]
 (https://github.com/IvanTellezM/bamazon/pictures/1.jpg)
+
+![Image of Yaktocat]
 (https://octodex.github.com/images/yaktocat.png)
 
 
