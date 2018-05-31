@@ -5,7 +5,7 @@ const Table = require('cli-table');
 const connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'Chingon44',
+    password: '',
     database: 'bamazon_DB',
 });
 
