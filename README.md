@@ -4,11 +4,6 @@ Assignment #2 week 6 of UC Berkeley BC. ### Challenge #1: Customer View
 https://drive.google.com/file/d/1OWUhhsGyuYfVkNvXt6YBBA1W42s31Nsg/view
 
 
-![Screenshot #1]
-(https://github.com/IvanTellezM/bamazon/pictures/1.jpg)
-(http://ivantellezm.github.io/pictures/1.jpg)
-
-
 ### Challenge #1: Customer View 
 
 1. Create a MySQL Database called `bamazon`.
